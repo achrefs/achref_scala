@@ -1,0 +1,10 @@
+compile
+gen-idea
+*sbtIdeaRepo at http://mpeltonen.github.com/maven/
+build
+help
+gen-idea
+clean
+gen-idea
+compile
+run
