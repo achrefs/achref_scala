@@ -14,6 +14,7 @@ libraryDependencies ++= Seq(
   "com.google.guava" % "guava" % "14.0.1",
 //  "junit" % "junit" % "4.11" % "test",
 //  "org.scalamock" %% "scalamock-scalatest-support" % "2.4" % "test"
+//  "org.scalamock" %% "scalamock-scalatest-support" % "2.4" % "test"
   "org.mockito" % "mockito-core" % "1.9.5" % "test"
 )
 
